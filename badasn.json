@@ -1,0 +1,247 @@
+[
+  {
+    "asn": 3462,
+    "name": "HINET",
+    "description": "Data Communication Business Group",
+    "country": "TW",
+    "reason": "Abuse mailbox does not exist."
+  },
+  {
+    "asn": 3816,
+    "name": "COLOMBIA TELECOMUNICACIONES S.A. ESP",
+    "description": "COLOMBIA TELECOMUNICACIONES S.A. ESP",
+    "country": "CO",
+    "reason": "Abuse mailbox over quota."
+  },
+  {
+    "asn": 4134,
+    "name": "CHINANET-BACKBONE",
+    "description": "No.31,Jin-rong Street",
+    "country": "CN",
+    "reason": "Multiple reports, no response."
+  },
+  {
+    "asn": 4812,
+    "name": "CHINANET-SH-AP",
+    "description": "China Telecom (Group)",
+    "country": "CN",
+    "reason": "Multiple reports, no response."
+  },
+  {
+    "asn": 4837,
+    "name": "CHINA169-Backbone",
+    "description": "CHINA UNICOM China169 Backbone",
+    "country": "CN",
+    "reason": "Multiple reports, no response."
+  },
+  {
+    "asn": 7506,
+    "name": "INTERQ",
+    "description": "GMO Internet,Inc",
+    "country": "JP",
+    "reason": "Multiple reports, no response."
+  },
+  {
+    "asn": 7552,
+    "name": "VIETEL-AS-AP",
+    "description": "Viettel Group",
+    "country": "VN",
+    "reason": "Multiple reports, no response."
+  },
+  {
+    "asn": 9121,
+    "name": "TTNet",
+    "description": "Turk Telekomunikasyon Anonim Sirketi",
+    "country": "TR",
+    "reason": "Multiple reports, no response."
+  },
+  {
+    "asn": 9165,
+    "name": "SERVICOM2000-AS",
+    "description": "PROSODIE IBERICA SL",
+    "country": "ES",
+    "reason": "Multiple reports, no response."
+  },
+  {
+    "asn": 12586,
+    "name": "ASGHOSTNET",
+    "description": "GHOSTnet GmbH",
+    "country": "DE",
+    "reason": "Multiple reports, no response."
+  },
+  {
+    "asn": 12876,
+    "name": "AS12876",
+    "description": "ONLINE S.A.S.",
+    "country": "FR",
+    "reason": "Multiple reports, no response."
+  },
+  {
+    "asn": 14576,
+    "name": "HOSTING-SOLUTIONS",
+    "description": "Hosting Solution Ltd.",
+    "country": "US",
+    "reason": "Multiple reports, no response."
+  },
+  {
+    "asn": 16578,
+    "name": "DATANOC",
+    "description": "Lanset America Corporation",
+    "country": "US",
+    "reason": "Multiple reports, no response, suspected spam haven."
+  },
+  {
+    "asn": 17622,
+    "name": "CNCGROUP-GZ",
+    "description": "China Unicom Guangzhou network",
+    "country": "CN",
+    "reason": "Multiple reports, no response."
+  },
+  {
+    "asn": 18403,
+    "name": "FPT-AS-AP",
+    "description": "The Corporation for Financing & Promoting Technology",
+    "country": "VN",
+    "reason": "Multiple reports, no response."
+  },
+  {
+    "asn": 20278,
+    "name": "NEXEON",
+    "description": "Nexeon Technologies, Inc.",
+    "country": "US",
+    "reason": "Multiple reports, no response."
+  },
+  {
+    "asn": 23724,
+    "name": "CHINANET-IDC-BJ-AP",
+    "description": "IDC, China Telecommunications Corporation",
+    "country": "CN",
+    "reason": "Multiple reports, no response, aggressive abuse."
+  },
+  {
+    "asn": 27951,
+    "name": "Media Commerce Partners S.A",
+    "description": "Media Commerce Partners S.A",
+    "country": "CO",
+    "reason": "Multiple reports, no response."
+  },
+  {
+    "asn": 29262,
+    "name": "IDEALHOSTING",
+    "description": "Ideal Hosting Teknoloji A.S.",
+    "country": "TR",
+    "reason": "Multiple reports, no response."
+  },
+  {
+    "asn": 34702,
+    "name": "WAVECOM-AS",
+    "description": "Aktsiaselts WaveCom",
+    "country": "EE",
+    "reason": "Multiple reports, no response."
+  },
+  {
+    "asn": 36351,
+    "name": "SOFTLAYER",
+    "description": "SoftLayer Technologies Inc.",
+    "country": "US",
+    "reason": "Multiple reports, no response."
+  },
+  {
+    "asn": 36352,
+    "name": "AS-COLOCROSSING",
+    "description": "ColoCrossing",
+    "country": "US",
+    "reason": "Multiple reports, no response, suspected spam haven."
+  },
+  {
+    "asn": 43350,
+    "name": "NFORCE",
+    "description": "NForce Entertainment B.V.",
+    "country": "NL",
+    "reason": "Multiple reports, no response."
+  },
+  {
+    "asn": 44244,
+    "name": "IranCell-AS",
+    "description": "Iran Cell Service and Communication Company",
+    "country": "IR",
+    "reason": "Multiple reports, no response."
+  },
+  {
+    "asn": 45542,
+    "name": "VNU-AS-VN",
+    "description": "VietNam National University Ha Noi",
+    "country": "VN",
+    "reason": "Multiple reports, no response."
+  },
+  {
+    "asn": 45595,
+    "name": "PKTELECOM-AS-PK",
+    "description": "Pakistan Telecom Company Limited",
+    "country": "PK",
+    "reason": "Abuse mailbox over quota."
+  },
+  {
+    "asn": 46573,
+    "name": "LAYER-HOST",
+    "description": "LayerHost",
+    "country": "US",
+    "reason": "Multiple reports, no response."
+  },
+  {
+    "asn": 62904,
+    "name": "EONIX-COMMUNICATIONS-ASBLOCK-62904",
+    "description": "Eonix Corporation",
+    "country": "US",
+    "reason": "Multiple reports, no response."
+  },
+  {
+    "asn": 131178,
+    "name": "KINGCORP-KH",
+    "description": "OpenNet ISP Cambodia",
+    "country": "KH",
+    "reason": "Multiple reports, no response."
+  },
+  {
+    "asn": 133279,
+    "name": "SPEED4NET-AS",
+    "description": "SPEED4NET",
+    "country": "IN",
+    "reason": "Multiple reports, no response."
+  },
+  {
+    "asn": 133973,
+    "name": "NETCONNECTWIFI-AS",
+    "description": "Net Connect Wifi Pvt Ltd",
+    "country": "IN",
+    "reason": "Abuse mailbox does not exist."
+  },
+  {
+    "asn": 135905,
+    "name": "VNPT-AS-VN",
+    "description": "VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",
+    "country": "VN",
+    "reason": "Multiple reports, no response."
+  },
+  {
+    "asn": 207959,
+    "name": "XSSERVER",
+    "description": "XSServer GmbH",
+    "country": "NL",
+    "reason": "Multiple reports, no response."
+  },
+  {
+    "asn": 208046,
+    "name": "HostSlick-Germany",
+    "description": "Maximilian Kutzner",
+    "country": "NL",
+    "reason": "Multiple reports, no response."
+  },
+  {
+    "asn": 398395,
+    "name": "DOT-TECH-LLC",
+    "description": "Dot-Tech LLC",
+    "country": "US",
+    "reason": "Multiple reports, no response."
+  }
+]
