@@ -63,11 +63,26 @@
     "reason": "Multiple reports, no response."
   },
   {
+    "asn": 12252,
+    "name": "America Movil Peru S.A.C.",
+    "description": "America Movil Peru S.A.C.",
+    "country": "PE",
+    "reason": "Abuse mailbox does not exist."
+  },
+  {
     "asn": 12586,
     "name": "ASGHOSTNET",
     "description": "GHOSTnet GmbH",
     "country": "DE",
     "reason": "Multiple reports, no response."
+  },
+  {
+    "ip": "77.139.105.253",
+    "asn": 12849,
+    "name": "HOTNET-IL",
+    "description": "AMS-IX Admin LAN",
+    "country": "IL",
+    "reason": "Abuse mailbox over quota."
   },
   {
     "asn": 12876,
@@ -91,11 +106,18 @@
     "reason": "Multiple reports, no response, suspected spam haven."
   },
   {
+    "asn": 17621,
+    "name": "CNCGROUP-SH",
+    "description": "China Unicom Shanghai network",
+    "country": "CN",
+    "reason": "Abuse mailbox over quota."
+  },
+  {
     "asn": 17622,
     "name": "CNCGROUP-GZ",
     "description": "China Unicom Guangzhou network",
     "country": "CN",
-    "reason": "Multiple reports, no response."
+    "reason": "Abuse mailbox over quota."
   },
   {
     "asn": 18403,
@@ -131,6 +153,13 @@
     "description": "Ideal Hosting Teknoloji A.S.",
     "country": "TR",
     "reason": "Multiple reports, no response."
+  },
+  {
+    "asn": 30900,
+    "name": "WEBWORLD-AS",
+    "description": "t/a Web World Ireland",
+    "country": "IE",
+    "reason": "Multiple reports, tickets get immediately closed without comment, otherwise no response."
   },
   {
     "asn": 34702,
@@ -222,6 +251,20 @@
     "description": "VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",
     "country": "VN",
     "reason": "Multiple reports, no response."
+  },
+  {
+    "asn": 198605,
+    "name": "AVAST-AS-DC",
+    "description": "AVAST Software s.r.o.",
+    "country": "CZ",
+    "reason": "Aggressive scanning attempts from security services provider"
+  },
+  {
+    "asn": 204818,
+    "name": "HOSTEUR-NET-CORE",
+    "description": "Hosteur NETWORK CORE",
+    "country": "FR",
+    "reason": "Non-working abuse address, filters abuse reports, therefore defeating the purpose."
   },
   {
     "asn": 207959,
