@@ -49,6 +49,20 @@
     "reason": "Multiple reports, no response."
   },
   {
+    "asn": 8346,
+    "name": "POOL ADSL ORANGE SENEGAL",
+    "description": "SONATEL-AS Autonomous System",
+    "country": "SN",
+    "reason": "No abuse mailbox."
+  },
+  {
+    "asn": 8452,
+    "name": "TE-AS",
+    "description": "TE-AS",
+    "country": "EG",
+    "reason": "No abuse mailbox."
+  },
+  {
     "asn": 9121,
     "name": "TTNet",
     "description": "Turk Telekomunikasyon Anonim Sirketi",
@@ -77,7 +91,6 @@
     "reason": "Multiple reports, no response."
   },
   {
-    "ip": "77.139.105.253",
     "asn": 12849,
     "name": "HOTNET-IL",
     "description": "AMS-IX Admin LAN",
@@ -209,6 +222,13 @@
     "description": "Pakistan Telecom Company Limited",
     "country": "PK",
     "reason": "Abuse mailbox over quota."
+  },
+  {
+    "asn": 45899,
+    "name": "VNPT-AS-VN",
+    "description": "VNPT Corp",
+    "country": "VN",
+    "reason": "Multiple reports, no response."
   },
   {
     "asn": 46573,
