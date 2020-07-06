@@ -35,6 +35,13 @@
     "reason": "Multiple reports, no response."
   },
   {
+    "asn": 6147,
+    "name": "Telefonica del Peru S.A.A.",
+    "description": "Telefonica del Peru S.A.A.",
+    "country": "PE",
+    "reason": "Abuse mailbox does not exist."
+  },
+  {
     "asn": 7506,
     "name": "INTERQ",
     "description": "GMO Internet,Inc",
@@ -147,11 +154,32 @@
     "reason": "Multiple reports, no response."
   },
   {
+    "asn": 23201,
+    "name": "Telecel S.A.",
+    "description": "Telecel S.A.",
+    "country": "PY",
+    "reason": "Abuse mailbox over quota."
+  },
+  {
     "asn": 23724,
     "name": "CHINANET-IDC-BJ-AP",
     "description": "IDC, China Telecommunications Corporation",
     "country": "CN",
     "reason": "Multiple reports, no response, aggressive abuse."
+  },
+  {
+    "asn": 24086,
+    "name": "VIETTEL-AS-VN",
+    "description": "Viettel Corporation",
+    "country": "VN",
+    "reason": "No abuse mailbox."
+  },
+  {
+    "asn": 27843,
+    "name": "OPTICAL TECHNOLOGIES S.A.C.",
+    "description": "OPTICAL TECHNOLOGIES S.A.C.",
+    "country": "PE",
+    "reason": "Abuse mailbox over quota."
   },
   {
     "asn": 27951,
@@ -299,6 +327,13 @@
     "description": "Maximilian Kutzner",
     "country": "NL",
     "reason": "Multiple reports, no response."
+  },
+  {
+    "asn": 266634,
+    "name": "KLINK TELECOMUNICACOES EIRELI ME",
+    "description": "KLINK TELECOMUNICACOES EIRELI ME",
+    "country": "BR",
+    "reason": "No abuse mailbox."
   },
   {
     "asn": 398395,
