@@ -14,7 +14,7 @@ Use with care and only if you are completely sure about the resulting
 consequences. This list is manually curated, not automatically generated. False 
 positives should be minimal.
 
-## Ban Categories
+## Reasons for Banning
 
 * Abuse mailbox connection timeout.
 * Abuse mailbox does not exist.
