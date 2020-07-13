@@ -35,6 +35,13 @@
     "reason": "Multiple reports, no response."
   },
   {
+    "asn": 4847,
+    "name": "CNIX-AP",
+    "description": "China Networks Inter-Exchange",
+    "country": "CN",
+    "reason": "Multiple reports, no response."
+  },
+  {
     "asn": 6147,
     "name": "Telefonica del Peru S.A.A.",
     "description": "Telefonica del Peru S.A.A.",
@@ -119,6 +126,13 @@
     "reason": "Multiple reports, no response."
   },
   {
+    "asn": 15808,
+    "name": "ACCESSKENYA-KE",
+    "description": "ACCESSKENYA GROUP LTD is an ISP serving",
+    "country": "KE",
+    "reason": "No abuse mailbox."
+  },
+  {
     "asn": 16578,
     "name": "DATANOC",
     "description": "Lanset America Corporation",
@@ -138,6 +152,13 @@
     "description": "China Unicom Guangzhou network",
     "country": "CN",
     "reason": "Abuse mailbox over quota."
+  },
+  {
+    "asn": 17816,
+    "name": "CHINA169-GZ",
+    "description": "China Unicom IP network China169 Guangdong province",
+    "country": "CN",
+    "reason": "Multiple reports, no response."
   },
   {
     "asn": 18403,
@@ -172,6 +193,13 @@
     "name": "VIETTEL-AS-VN",
     "description": "Viettel Corporation",
     "country": "VN",
+    "reason": "No abuse mailbox."
+  },
+  {
+    "asn": 24164,
+    "name": "UBBNET-AS-TW",
+    "description": "UNION BROADBAND NETWORK",
+    "country": "TW",
     "reason": "No abuse mailbox."
   },
   {
@@ -224,6 +252,20 @@
     "reason": "Multiple reports, no response, suspected spam haven."
   },
   {
+    "asn": 37963,
+    "name": "CNNIC-ALIBABA-CN-NET-AP",
+    "description": "Hangzhou Alibaba Advertising Co.,Ltd.",
+    "country": "CN",
+    "reason": "Multiple reports, no response."
+  },
+  {
+    "asn": 38841,
+    "name": "kbro-AS-TW",
+    "description": "kbro CO. Ltd.",
+    "country": "TW",
+    "reason": "Abuse mailbox connection timeout."
+  },
+  {
     "asn": 43350,
     "name": "NFORCE",
     "description": "NForce Entertainment B.V.",
@@ -266,6 +308,20 @@
     "reason": "Multiple reports, no response."
   },
   {
+    "asn": 51167,
+    "name": "CONTABO",
+    "description": "Contabo GmbH",
+    "country": "DE",
+    "reason": "Multiple reports, no response."
+  },
+  {
+    "asn": 56040,
+    "name": "CMNET-GuangDong-AP",
+    "description": "China Mobile communications corporation",
+    "country": "CN",
+    "reason": "Multiple reports, no response."
+  },
+  {
     "asn": 62904,
     "name": "EONIX-COMMUNICATIONS-ASBLOCK-62904",
     "description": "Eonix Corporation",
@@ -301,11 +357,25 @@
     "reason": "Multiple reports, no response."
   },
   {
+    "asn": 135944,
+    "name": "VINACIS-AS-VN",
+    "description": "VinhNam Commercial informatics service corporation",
+    "country": "VN",
+    "reason": "Multiple reports, no response."
+  },
+  {
     "asn": 198605,
     "name": "AVAST-AS-DC",
     "description": "AVAST Software s.r.o.",
     "country": "CZ",
     "reason": "Aggressive scanning attempts from security services provider"
+  },
+  {
+    "asn": 202505,
+    "name": "Onlinenet",
+    "description": "Onlinenet Bil. Turzm. Teks. San. Ve Tic. Ltd. Sti.",
+    "country": "TR",
+    "reason": "Multiple reports, no response."
   },
   {
     "asn": 204818,
@@ -327,6 +397,13 @@
     "description": "Maximilian Kutzner",
     "country": "NL",
     "reason": "Multiple reports, no response."
+  },
+  {
+    "asn": 209484,
+    "name": "AsiaNET",
+    "description": "Asia Communications Co., Limited",
+    "country": "GB",
+    "reason": "Abuse mailbox rejects all messages."
   },
   {
     "asn": 266634,

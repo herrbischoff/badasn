@@ -16,8 +16,14 @@ positives should be minimal.
 
 ## Ban Categories
 
+* Abuse mailbox connection timeout.
 * Abuse mailbox does not exist.
 * Abuse mailbox over quota.
+* Abuse mailbox rejects all messages.
+* Aggressive scanning attempts from security services provider
 * Multiple reports, no response, aggressive abuse.
 * Multiple reports, no response, suspected spam haven.
 * Multiple reports, no response.
+* Multiple reports, tickets get immediately closed without comment, otherwise no response.
+* No abuse mailbox.
+* Non-working abuse address, filters abuse reports, therefore defeating the purpose.
