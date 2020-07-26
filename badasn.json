@@ -58,9 +58,9 @@
   },
   {
     "asn": 4847,
-    "name": "CNIX-AP",
-    "description": "China Networks Inter-Exchange",
     "country": "CN",
+    "description": "China Networks Inter-Exchange",
+    "name": "CNIX-AP",
     "reason": "Multiple reports, no response."
   },
   {
