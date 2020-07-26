@@ -5,14 +5,36 @@ abuse departments despite being major sources of abusive traffic. The ASNs
 listed exhibited persistent abusive behavior over an extended period of time 
 until banned.
 
-While being a fervent proponent of a free and unrestricted internet, I equally 
-strongly believe that to keep it that way (or prevent it from getting even 
-worse) providers need to actively respond to reports of bad actors. If they 
-don't, they should be called out.
+While being a fervent proponent of a free and mostly unrestricted internet, I 
+equally strongly believe that to keep it that way (or prevent it from getting 
+even worse) providers need to actively respond to reports of bad actors. If 
+they don't, they should be called out.
 
 Use with care and only if you are completely sure about the resulting 
 consequences. This list is manually curated, not automatically generated. False 
 positives should be minimal.
+
+To get to the data on the command-line, I recommend [jq][jq]. It makes working 
+with JSON easy and intuitive. For example, if you're just looking for the ASN 
+numbers and nothing else:
+
+```
+cat badasn.json | jq '.[].asn'
+```
+
+If you want to filter by a specific field like `country`:
+
+```
+cat badasn.json | jq '.[] | select(.country=="CN")'
+```
+
+And to put both requests together:
+
+```
+cat badasn.json | jq '.[] | select(.country=="CN") | .asn'
+```
+
+[jq]: https://stedolan.github.io/jq/
 
 ## Reasons for Banning
 
