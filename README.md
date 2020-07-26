@@ -27,3 +27,4 @@ positives should be minimal.
 * Multiple reports, tickets get immediately closed without comment, otherwise no response.
 * No abuse mailbox.
 * Non-working abuse address, filters abuse reports, therefore defeating the purpose.
+* Persistent spammer.
