@@ -113,6 +113,20 @@
     "reason": "Multiple reports, no response."
   },
   {
+    "asn": 9335,
+    "country": "TH",
+    "description": "CAT Telecom Public Company Limited",
+    "name": "cat-Cloud-AP",
+    "reason": "Multiple reports, no response."
+  },
+  {
+    "asn": 9341,
+    "country": "ID",
+    "description": "PT INDONESIA COMNETS PLUS",
+    "name": "ICONPLN-ID-AP-ISP",
+    "reason": "Abuse mailbox over quota."
+  },
+  {
     "asn": 12252,
     "country": "PE",
     "description": "America Movil Peru S.A.C.",
@@ -190,6 +204,13 @@
     "reason": "Multiple reports, no response."
   },
   {
+     "asn": 18229,
+     "country": "IN",
+     "description": "CtrlS Datacenters Ltd.",
+     "name": "CTRLS-AS-IN",
+    "reason": "Abuse mailbox not reachable."
+  },
+  {
     "asn": 18403,
     "country": "VN",
     "description": "The Corporation for Financing & Promoting Technology",
@@ -232,6 +253,20 @@
     "reason": "No abuse mailbox."
   },
   {
+    "asn": 25229,
+    "country": "UA",
+    "description": "Kyivski Telekomunikatsiyni Merezhi LLC",
+    "name": "VOLIA-AS",
+    "reason": "Remote MTA not accepting connections."
+  },
+  {
+    "asn": 24560,
+    "country": "IN",
+    "description": "Bharti Airtel Ltd., Telemedia Services",
+    "name": "AIRTELBROADBAND-AS-AP",
+    "reason": "The recipient's mailbox is full and can't accept messages now."
+  },
+  {
     "asn": 27843,
     "country": "PE",
     "description": "OPTICAL TECHNOLOGIES S.A.C.",
@@ -244,6 +279,13 @@
     "description": "Media Commerce Partners S.A",
     "name": "Media Commerce Partners S.A",
     "reason": "Multiple reports, no response."
+  },
+  {
+    "asn": 28546,
+    "country": "MX",
+    "description": "Servnet Mexico, S.A. de C.V.",
+    "name": "Servnet Mexico, S.A. de C.V.",
+    "reason": "Abuse mailbox does not exist."
   },
   {
     "asn": 29262,
@@ -260,11 +302,47 @@
     "reason": "Abuse mailbox over quota."
   },
   {
+    "asn": 29571,
+    "country": "CI",
+    "description": "Orange CA\u00b4te d'Ivoire",
+    "name": "ORANGE-COTE-IVOIRE",
+    "reason": "Unknown mail server. Could not find a mail server for orange-cit.ci."
+  },
+  {
+    "asn": 29614,
+    "country": "GH",
+    "description": "GHANA TELECOM ISP NETWORK",
+    "name": "GHANATEL-AS",
+    "reason": "No abuse mailbox."
+  },
+  {
     "asn": 30900,
     "country": "IE",
     "description": "t/a Web World Ireland",
     "name": "WEBWORLD-AS",
     "reason": "Multiple reports, tickets get immediately closed without comment, otherwise no response."
+  },
+  {
+    "asn": 30986,
+    "country": "GH",
+    "description": "Scancom Autonomous System to implement a multihomed site.",
+    "name": "SCANCOM",
+    "reason": "No abuse mailbox."
+  },
+  {
+    "asn": 31272,
+    "country": "UA",
+    "description": "ISP WildPark, Ukraine, Nikolaev",
+    "name": "WILDPARK-AS",
+    "reason": "Multiple reports, no response."
+  },
+  {
+    "asn": 34300,
+    "country": "RU",
+    "description": "Internet Service Provider",
+    "name": "SPACENET-AS",
+    "rir": "RIPE",
+    "reason": "Failed to establish connection."
   },
   {
     "asn": 34702,
@@ -288,6 +366,13 @@
     "reason": "Multiple reports, no response, suspected spam haven."
   },
   {
+    "asn": 36873,
+    "country": "NG",
+    "description": "Celtel Nigeria Limited t.a ZAIN",
+    "name": "VNL1-AS",
+    "reason": "No abuse mailbox."
+  },
+  {
     "asn": 37963,
     "country": "CN",
     "description": "Hangzhou Alibaba Advertising Co.,Ltd.",
@@ -300,6 +385,27 @@
     "description": "kbro CO. Ltd.",
     "name": "kbro-AS-TW",
     "reason": "Abuse mailbox connection timeout."
+  },
+  {
+    "asn": 42397,
+    "country": "RO",
+    "description": "*        WHOLESALE PROVIDER OF        *",
+    "name": "BUNEA-HIGH-VOLUME-NETWORK",
+    "reason": "No abuse mailbox."
+  },
+  {
+    "asn": 42469,
+    "country": "UA",
+    "description": "\"AC\", Private Enterprise",
+    "name": "ASKAD",
+    "reason": "Multiple reports, no response."
+  },
+  {
+    "asn": 42610,
+    "country": "RU",
+    "description": "PJSC Rostelecom",
+    "name": "NCNET-AS",
+    "reason": "Multiple reports, no response."
   },
   {
     "asn": 42926,
@@ -323,6 +429,13 @@
     "reason": "Multiple reports, no response."
   },
   {
+    "asn": 45090,
+    "country": "CN",
+    "description": "Shenzhen Tencent Computer Systems Company Limited",
+    "name": "CNNIC-TENCENT-NET-AP",
+    "reason": "Multiple reports, no response."
+  },
+  {
     "asn": 45538,
     "country": "VN",
     "description": "Online data services",
@@ -337,11 +450,32 @@
     "reason": "Multiple reports, no response."
   },
   {
+    "asn": 45544,
+    "country": "VN",
+    "description": "SUPERDATA-VN",
+    "name": "SUPERDATA-AS-VN",
+    "reason": "Multiple reports, no response."
+  },
+  {
     "asn": 45595,
     "country": "PK",
     "description": "Pakistan Telecom Company Limited",
     "name": "PKTELECOM-AS-PK",
     "reason": "Abuse mailbox over quota."
+  },
+  {
+    "asn": 45609,
+    "country": "IN",
+    "description": "Bharti Airtel Ltd. AS for GPRS Service",
+    "name": "BHARTI-MOBILITY-AS-AP",
+    "reason": "Abuse mailbox over quota."
+    },
+  {
+    "asn": 45769,
+    "country": "IN",
+    "description": "D-Vois Broadband Pvt Ltd",
+    "name": "DVOIS-IN",
+    "reason": "Abuse mailbox does not exist."
   },
   {
     "asn": 45899,
@@ -358,6 +492,13 @@
     "reason": "Multiple reports, no response."
   },
   {
+    "asn": 47895,
+    "country": "RU",
+    "description": "LTD \"Erline\"",
+    "name": "R-LINE-AS",
+    "reason": "Abuse mailbox is a Gmail address."
+  },
+  {
     "asn": 51167,
     "country": "DE",
     "description": "Contabo GmbH",
@@ -372,6 +513,13 @@
     "reason": "Multiple reports, no response."
   },
   {
+    "asn": 56150,
+    "country": "VN",
+    "description": "Viet Solutions Services Trading Company Limited",
+    "name": "VHOST-AS-VN",
+    "reason": "Multiple reports, no response."
+  },
+  {
     "asn": 62904,
     "country": "US",
     "description": "Eonix Corporation",
@@ -379,10 +527,24 @@
     "reason": "Multiple reports, no response."
   },
   {
+    "asn": 63859,
+    "country": "ID",
+    "description": "PT. Eka Mas Republik",
+    "name": "MYREPUBLIC-AS-ID",
+    "reason": "Abuse mailbox does not exist."
+  },
+  {
     "asn": 131178,
     "country": "KH",
     "description": "OpenNet ISP Cambodia",
     "name": "KINGCORP-KH",
+    "reason": "Multiple reports, no response."
+  },
+  {
+    "asn": 131386,
+    "country": "VN",
+    "description": "Long Van System Solution JSC",
+    "name": "LVSS-AS-VN",
     "reason": "Multiple reports, no response."
   },
   {
@@ -425,6 +587,20 @@
     "country": "VN",
     "description": "VinhNam Commercial informatics service corporation",
     "name": "VINACIS-AS-VN",
+    "reason": "Multiple reports, no response."
+  },
+  {
+    "asn": 135967,
+    "country": "VN",
+    "description": "Bach Kim Network solutions Join stock company",
+    "name": "BKNS-AS-VN",
+    "reason": "Multiple reports, no response."
+  },
+  {
+    "asn": 196777,
+    "country": "UA",
+    "description": "SKORUK ANDRIY OLEKSANDROVYCH",
+    "name": "SKYNET-UA-AS",
     "reason": "Multiple reports, no response."
   },
   {
