@@ -62,6 +62,5 @@ cat badasn.json | jq '.[] | select(.country=="CN") | .asn'
 * Remote MTA not accepting connections.
 * The recipient's mailbox is full and can't accept messages now.
 * Too many concurrent deliveries for user: retry timeout exceeded.
-* Unknown mail server. Could not find a mail server for kabelvision.com.
-* Unknown mail server. Could not find a mail server for orange-cit.ci.
+* Unknown mail server.
 * Unknown mail server. Could not find a mail server.

@@ -259,7 +259,7 @@
     "asn": "23700",
     "country": "ID",
     "name": "FASTNET-AS-ID Linknet-Fastnet ASN, ID",
-    "reason": "Unknown mail server. Could not find a mail server for kabelvision.com."
+    "reason": "Unknown mail server."
   },
   {
     "asn": 23724,
@@ -336,7 +336,7 @@
     "country": "CI",
     "description": "Orange CA\u00b4te d'Ivoire",
     "name": "ORANGE-COTE-IVOIRE",
-    "reason": "Unknown mail server. Could not find a mail server for orange-cit.ci."
+    "reason": "Unknown mail server."
   },
   {
     "asn": 29614,
