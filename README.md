@@ -40,12 +40,17 @@ cat badasn.json | jq '.[] | select(.country=="CN") | .asn'
 
 * Abuse mailbox connection timeout.
 * Abuse mailbox does not exist.
-* Abuse mailbox is a Gmail address.
+* Abuse mailbox full.
+* Abuse mailbox is an unresponsive Gmail address.
 * Abuse mailbox not reachable.
 * Abuse mailbox over quota.
 * Abuse mailbox rejects all messages.
+* Abuse mailbox unreachable.
+* Account is full (quota exceeded).
 * Aggressive scanning attempts from security services provider
 * Failed to establish connection.
+* Mailbox is full / Blocks limit exceeded / Inode limit exceeded.
+* Mailbox is full.
 * Multiple reports, no response, aggressive abuse.
 * Multiple reports, no response, suspected spam haven.
 * Multiple reports, no response.
@@ -53,6 +58,10 @@ cat badasn.json | jq '.[] | select(.country=="CN") | .asn'
 * No abuse mailbox.
 * Non-working abuse address, filters abuse reports, therefore defeating the purpose.
 * Persistent spammer.
+* Rejects legitimate email.
 * Remote MTA not accepting connections.
 * The recipient's mailbox is full and can't accept messages now.
+* Too many concurrent deliveries for user: retry timeout exceeded.
+* Unknown mail server. Could not find a mail server for kabelvision.com.
 * Unknown mail server. Could not find a mail server for orange-cit.ci.
+* Unknown mail server. Could not find a mail server.

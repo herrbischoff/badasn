@@ -54,7 +54,7 @@
     "country": "CN",
     "description": "CHINA UNICOM China169 Backbone",
     "name": "CHINA169-Backbone",
-    "reason": "Multiple reports, no response."
+    "reason": "Abuse mailbox full."
   },
   {
     "asn": 4847,
@@ -85,6 +85,12 @@
     "reason": "Multiple reports, no response."
   },
   {
+    "asn": "7713",
+    "country": "ID",
+    "name": "TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID",
+    "reason": "Mailbox is full / Blocks limit exceeded / Inode limit exceeded."
+  },
+  {
     "asn": 8346,
     "country": "SN",
     "description": "SONATEL-AS Autonomous System",
@@ -113,6 +119,12 @@
     "reason": "Multiple reports, no response."
   },
   {
+    "asn": "9329",
+    "country": "LK",
+    "name": "SLTINT-AS-AP Sri Lanka Telecom Internet, LK",
+    "reason": "Account is full (quota exceeded)."
+  },
+  {
     "asn": 9335,
     "country": "TH",
     "description": "CAT Telecom Public Company Limited",
@@ -125,6 +137,12 @@
     "description": "PT INDONESIA COMNETS PLUS",
     "name": "ICONPLN-ID-AP-ISP",
     "reason": "Abuse mailbox over quota."
+  },
+  {
+    "asn": "9498",
+    "country": "IN",
+    "name": "BBIL-AP BHARTI Airtel Ltd., IN",
+    "reason": "The recipient's mailbox is full and can't accept messages now."
   },
   {
     "asn": 12252,
@@ -225,11 +243,23 @@
     "reason": "Multiple reports, no response."
   },
   {
+    "asn": "21826",
+    "country": "VE",
+    "name": "Corporacion Telemic C.A., VE",
+    "reason": "Abuse mailbox unreachable."
+  },
+  {
     "asn": 23201,
     "country": "PY",
     "description": "Telecel S.A.",
     "name": "Telecel S.A.",
     "reason": "Abuse mailbox over quota."
+  },
+  {
+    "asn": "23700",
+    "country": "ID",
+    "name": "FASTNET-AS-ID Linknet-Fastnet ASN, ID",
+    "reason": "Unknown mail server. Could not find a mail server for kabelvision.com."
   },
   {
     "asn": 23724,
@@ -373,6 +403,25 @@
     "reason": "No abuse mailbox."
   },
   {
+    "asn": "36903",
+    "country": "MA",
+    "name": "MT-MPLS, MA",
+    "reason": "No abuse mailbox."
+  },
+  {
+    "asn": 37054,
+    "country": "MG",
+    "description": "Telecom Malagasy",
+    "name": "Telecom-Malagasy",
+    "reason": "No abuse mailbox."
+  },
+  {
+    "asn": "37586",
+    "country": "BI",
+    "name": "ONATEL, BI",
+    "reason": "Rejects legitimate email."
+  },
+  {
     "asn": 37963,
     "country": "CN",
     "description": "Hangzhou Alibaba Advertising Co.,Ltd.",
@@ -436,6 +485,12 @@
     "reason": "Multiple reports, no response."
   },
   {
+    "asn": "45271",
+    "country": "IN",
+    "name": "ICLNET-AS-AP Idea Cellular Limited, IN",
+    "reason": "Unknown mail server. Could not find a mail server."
+  },
+  {
     "asn": 45538,
     "country": "VN",
     "description": "Online data services",
@@ -485,6 +540,12 @@
     "reason": "Multiple reports, no response."
   },
   {
+    "asn": "46015",
+    "country": "MY",
+    "name": "EXABYTES-AS-AP Exa Bytes Network Sdn.Bhd., MY",
+    "reason": "Too many concurrent deliveries for user: retry timeout exceeded."
+  },
+  {
     "asn": 46573,
     "country": "US",
     "description": "LayerHost",
@@ -496,7 +557,7 @@
     "country": "RU",
     "description": "LTD \"Erline\"",
     "name": "R-LINE-AS",
-    "reason": "Abuse mailbox is a Gmail address."
+    "reason": "Abuse mailbox is an unresponsive Gmail address."
   },
   {
     "asn": 51167,
@@ -504,6 +565,12 @@
     "description": "Contabo GmbH",
     "name": "CONTABO",
     "reason": "Multiple reports, no response."
+  },
+  {
+    "asn": "55714",
+    "country": "PK",
+    "name": "APNIC-FIBERLINK-PK Fiberlink Pvt.Ltd, PK",
+    "reason": "Mailbox is full."
   },
   {
     "asn": 56040,
@@ -576,6 +643,12 @@
     "reason": "Abuse mailbox does not exist."
   },
   {
+    "asn": "134968",
+    "country": "BD",
+    "name": "MAYACYBERWORLD-AS-AP Mizanur Rahman t/a Maya Cyber World, BD",
+    "reason": "Abuse mailbox is an unresponsive Gmail address."
+  },
+  {
     "asn": 135905,
     "country": "VN",
     "description": "VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",
@@ -609,6 +682,12 @@
     "description": "AVAST Software s.r.o.",
     "name": "AVAST-AS-DC",
     "reason": "Aggressive scanning attempts from security services provider"
+  },
+  {
+    "asn": "200406",
+    "country": "IR",
+    "name": "BERBIDSERVER, IR",
+    "reason": "No abuse mailbox."
   },
   {
     "asn": 202505,
