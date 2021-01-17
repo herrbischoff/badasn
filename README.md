@@ -68,6 +68,7 @@ cat badasn.json | jq '.[] | select(.country=="CN") | .asn'
 * Multiple reports, no response, suspected spam haven.
 * Multiple reports, no response.
 * Multiple reports, tickets get immediately closed without comment, otherwise no response.
+* No abuse mailbox, despite being a consistent source of junk email.
 * No abuse mailbox.
 * Non-working abuse address, filters abuse reports, therefore defeating the purpose.
 * Persistent spammer.
@@ -75,5 +76,7 @@ cat badasn.json | jq '.[] | select(.country=="CN") | .asn'
 * Remote MTA not accepting connections.
 * The recipient's mailbox is full and can't accept messages now.
 * Too many concurrent deliveries for user: retry timeout exceeded.
+* Unable to lookup DNS for dns3.ru.
+* Unable to lookup DNS.
 * Unknown mail server.
 * Unknown mail server. Could not find a mail server.
